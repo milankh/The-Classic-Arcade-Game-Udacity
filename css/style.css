@@ -1,0 +1,16 @@
+body {
+    text-align: center;
+}
+
+.score{
+  color: darkgreen;
+}
+
+h1{
+  color: darkblue;
+  border: 3px solid skyblue;
+  width: 37.5%;
+  margin: auto;
+  margin-bottom: -40px;
+  box-shadow: 2px 2px 1px 1px skyblue;
+}
